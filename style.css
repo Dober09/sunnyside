@@ -391,9 +391,9 @@ text-align: center;
   color: hsl(7, 99%, 70%);
 }
 
-@media screen and (min-width: 1080px) {
+@media screen and (min-width: 960px) {
   .container {
-    width: 1080px;
+    width: 950px;
     /* border: 1px solid; */
   }
 
